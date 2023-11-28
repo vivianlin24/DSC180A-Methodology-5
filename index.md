@@ -1,7 +1,4 @@
-Name: Vivian Lin
-Email: vlin@ucsd.edu
-Section: B14
-Mentor: Haojian Jin 
+Name: Vivian Lin | Email: vlin@ucsd.edu | Section: B14 | Mentor: Haojian Jin 
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 I think the most interesting topic has been building models that are able to predict how people feel 
